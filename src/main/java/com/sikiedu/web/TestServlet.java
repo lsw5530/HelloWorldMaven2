@@ -26,7 +26,7 @@ public class TestServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append(" Hello World Maven 123123");
+		response.getWriter().append(" Hello World Maven 666");
 	}
 
 	/**
